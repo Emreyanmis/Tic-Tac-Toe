@@ -1,2 +1,2 @@
-# XOX
-XOX Game 
+# Tic Tac Toe 
+Tic Tac Toe Game 
